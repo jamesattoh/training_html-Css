@@ -1,0 +1,20 @@
+	
+	1- ouvrir un lien sur un nouvel onglet
+utiliser dans les attributs du lien <a target="_blank">...</a>
+
+	2- commenter rapidement en html
+sélectionner + ctrl k + ctrl c
+
+	3- Taille de police :: la valeur par défaut des caractères est 1em , et leur épaisseur, 400 (font-weight)
+
+
+
+
+
+//TOP DES SITES QUI AIDENT POUR LE CSS
+
+-- fancy-border-radius : pour créer les valeurs de ton border radius avec un test de déplacement
+-- https://www.w3schools.com/colors/colors_picker.asp ( ou encore https://coolors.co/): pour avoir les valeurs hexadécimales de tes couleurs
+-- https://fonts.google.com/ : pour trouver les polices en lignes
+-- https://uigradients.com/ ou encore https://cssgradient.io/ : pour respectivement l'inspiration en termes de dégradés et pour construire vos propres dégradés
+-- https://shadows.brumm.af/ ou encore https://getcssscan.com/css-box-shadow-examples : pour trouver l’effet d’ombre désiré à tâtons ou s'inspirer des exemples listés
